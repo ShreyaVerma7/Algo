@@ -41,6 +41,5 @@ int main()
         cout<<"\nNO. found at position:"<<no+1;
         delete b;
         return 0;
-
 }
 
